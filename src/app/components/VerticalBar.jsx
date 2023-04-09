@@ -104,7 +104,7 @@ export default function VerticalBar() {
                             >
                                 <PeopleIcon sx={{ color: "white" }} />
                             </ListItemIcon>
-                            <ListItemText primary={"Gaming"} sx={{ opacity: open ? 1 : 0 }} />
+                            <ListItemText primary={"Users"} sx={{ opacity: open ? 1 : 0 }} />
                         </ListItemButton>
                     </ListItem>
                     <ListItem disablePadding sx={{ display: 'block', color: "white" }}>
